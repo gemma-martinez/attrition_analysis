@@ -1,14 +1,25 @@
-# Hi again 👋
+# Employee Attrition Analysis
+
+An individual project focused on analyzing employee attrition.
+
+## 🔍 Project Overview 
 
 
-Welcome to my Employee Attrition Analysis project! 
-
-This repository is part of my journey to learn more about **data analytics** and its applications in HR. 👩‍💻 
-
-Here I worked with the [IBM HR Analytics Atrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data), available on Kaggle. It contains data related to employee atrition within an organization, including various personal, professional and organizational attributes. 
+I worked with the [IBM HR Analytics Atrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data), available on Kaggle. It contains data related to employee atrition within an organization, including various personal, professional and organizational attributes. 
 
 The **main goal** is to analyze the reasons behind employee attrition and identify factors influencing turnover. 
 
-## Contributing
+## 💻 Technologies used 
 
-Contributions are welcome! If you have suggestions or improvements, please open an issue or create a pull request.
+- Jupyter Notebooks
+- Python (pandas, matplotlib, seaborn)
+- Tableau
+- GitHub
+
+## 📁 Project structure 
+
+- `data/`: Contains the dataset used for analysis 
+- `notebooks/`: Jupyter Notebooks containing data cleaning, analysis, and visualizations
+- `README.md`: Project documentation and instructions
+
+## 📊 Project Summary 
