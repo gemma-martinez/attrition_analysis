@@ -1,6 +1,6 @@
 # Employee Attrition Analysis
 
-An individual project focused on analyzing employee attrition.
+An individual project focused on analyzing which factors impact employee attrition and identifying potential areas for HR intervention.
 
 ## 🔍 Project Overview 
 
