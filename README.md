@@ -179,10 +179,12 @@ Although the turnover rate is lower than in other departments, the analysis of j
 + opportunities for continued education and attendance at industry conferences
 + ensure cutting-edge technoloy and resources
 
+</details>
+
 ### Performance and satisfaction
 
+<details><summary>Satisfaction on work environment</summary>
 
 
 </details>
-
 
