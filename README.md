@@ -30,8 +30,8 @@ The **main goal** is to analyze the reasons behind employee attrition and identi
 This data set contains information on 1470 employees on:
 
 - **Demographic information**: age, gender and marital status
-- **Employment details**: deparment, job role
-- **Performance and Satisfaction**: employee's satisfaction on work environment, job involvement, job satsifaction, performance rating, relationship satisfaction and work-life balance
+- **Employment details**: deparment, job role, peformance rating
+- **Employee Satisfaction**: employee's satisfaction on work environment, job involvement, job satsifaction, performance rating, relationship satisfaction and work-life balance
 - **Financial details**: daily and monthly rates, monthly income, percentage increase in salary over previous year and stock option level
 - **Work experience**: total of years the employee has been with the company, duration in the curent job role, years since last promotion, duration with current manager, total years of work experience
 - **Job Conditions**: overtime, travel requirement, distance from home, n° of training in the previous years
@@ -177,13 +177,20 @@ Although the turnover rate is lower than in other departments, the analysis of j
 
 + review work conditions and safety protocols
 + opportunities for continued education and attendance at industry conferences
-+ ensure cutting-edge technoloy and resources
++ ensure cutting-edge technology and resources
 
 </details>
 
-### Performance and satisfaction
+<details><summary>Performance</summary>
+
+Regarding employee performance, **84.62%** of ratings are a 3 on a 1 to 4 scale, suggesting that performance may not be a differentiating factor.
+
+</details>
+
+### Employee Satisfaction
 
 <details><summary>Satisfaction on work environment</summary>
+
 
 
 </details>
